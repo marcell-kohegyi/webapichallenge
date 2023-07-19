@@ -1,0 +1,11 @@
+com\example\marcell\webapichallenge\service\ContactService.class
+com\example\marcell\webapichallenge\WebapichallengeApplication.class
+com\example\marcell\webapichallenge\repo\SkillRepository.class
+com\example\marcell\webapichallenge\service\SkillService.class
+com\example\marcell\webapichallenge\entity\Contact.class
+com\example\marcell\webapichallenge\config\SwaggerConfig.class
+com\example\marcell\webapichallenge\controller\ContactController.class
+com\example\marcell\webapichallenge\repo\ContactRepository.class
+com\example\marcell\webapichallenge\enumeration\SkillLevel.class
+com\example\marcell\webapichallenge\entity\Skill.class
+com\example\marcell\webapichallenge\controller\SkillController.class
